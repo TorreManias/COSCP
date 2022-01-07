@@ -54,8 +54,14 @@ void registMenu ()
 
         char name[50];
         in("%s", name);
-
         strcpy(arrContestant[i].name, name);
+
+        for (int j = 1; j <= NUM_CONTESTANTS; j++)
+        {
+            out("Times %s got in the position #%i: ", name, j);
+            arrContestant[i].placesHistory[j] = scanOption();
+        }
+
         out("%s, successfully registered!", name);
         out("\n------------\n");
     }

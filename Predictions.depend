@@ -1,18 +1,18 @@
 # depslib dependency file v1.0
-1641578573 source:/home/Tureto/Dokumentoj/CProj/Predictions/main.c
+1641579926 source:/home/Tureto/Dokumentoj/CProj/Predictions/main.c
 	<stdio.h>
 	<stdlib.h>
 	"contestant.h"
 	"menu.h"
 
-1641576811 /home/Tureto/Dokumentoj/CProj/Predictions/contestant.h
+1641598298 /home/Tureto/Dokumentoj/CProj/Predictions/contestant.h
 	"showVariables.h"
 
 1641576774 /home/Tureto/Dokumentoj/CProj/Predictions/showVariables.h
 
-1641579427 /home/Tureto/Dokumentoj/CProj/Predictions/menu.h
+1641598305 /home/Tureto/Dokumentoj/CProj/Predictions/menu.h
 	"ioutilities.h"
 	<string.h>
 
-1641579379 /home/Tureto/Dokumentoj/CProj/Predictions/ioutilities.h
+1641579905 /home/Tureto/Dokumentoj/CProj/Predictions/ioutilities.h
 
